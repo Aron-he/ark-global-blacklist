@@ -6,11 +6,11 @@
 
 服务器只需拉取以下文件：
 
-- github  
-  https://raw.githubusercontent.com/Aron-he/ark-global-blacklist/main/blacklist.ini
+- 黑名单链接  
+  https://ghproxy.net/https://raw.githubusercontent.com/Aron-he/ark-global-blacklist/main/custom/blacklist.txt
 
-- ghproxy代理（推荐）  
-  https://ghproxy.net/https://raw.githubusercontent.com/Aron-he/ark-global-blacklist/main/blacklist.ini
+- 官方列表合并版本（推荐）  
+  https://ghproxy.net/https://raw.githubusercontent.com/Aron-he/ark-global-blacklist/main/build/blacklist.txt
   
 ## 📜 规则说明
 
