@@ -51,3 +51,24 @@
   - 处理：永久封禁
   - 证据文档：https://docs.qq.com/doc/DQ2hpc1pidG9SY1NU
   - 备注：柳宪华小号
+
+- 戒不掉杨枝甘露（UniqueNetId:0002bc6e77ba4761bb6d625c3894dd65）
+  - 服务器：9911
+  - 原因：利用游戏漏洞刷资源
+  - 处理：永久封禁
+  - 证据文档：https://docs.qq.com/doc/DQ0VFZ0tmWU11bVZ6
+  - 备注：牛牛 QQ：1773280154
+
+- 1024417416（UniqueNetId:0002c7fd90da43e8bd1ca9197851bb17）
+  - 服务器：9911
+  - 原因：利用游戏漏洞刷资源
+  - 处理：永久封禁
+  - 证据文档：https://docs.qq.com/doc/DQ0VFZ0tmWU11bVZ6
+  - 备注：RDK QQ：1024417416
+
+- Saigyouji（UniqueNetId:0002043187ef49ec8d585eee41639129）
+  - 服务器：9911
+  - 原因：利用游戏漏洞刷资源
+  - 处理：永久封禁
+  - 证据文档：https://docs.qq.com/doc/DQ0VFZ0tmWU11bVZ6
+  - 备注：红魔 QQ：963578416
