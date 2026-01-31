@@ -14,40 +14,40 @@
   - 服务器：9911
   - 原因：利用游戏漏洞刷资源
   - 处理：永久封禁
-  - 证据文档：
+  - 证据文档：https://docs.qq.com/doc/DQ2hpc1pidG9SY1NU
   - 备注：莉莉娅大号
 
 - 柳宪华（UniqueNetId:000250ab83e54473872d7d7ffbab0b2c）
   - 服务器：9911
   - 原因：利用游戏漏洞刷资源
   - 处理：永久封禁
-  - 证据文档：
+  - 证据文档：https://docs.qq.com/doc/DQ2hpc1pidG9SY1NU
   - 备注：柳宪华大号
 
 - Benjamin（UniqueNetId:0002f7c1f60b47ac9aa1c05e4b80bc6d）
   - 服务器：9911
   - 原因：利用游戏漏洞刷资源
   - 处理：永久封禁
-  - 证据文档：
+  - 证据文档：https://docs.qq.com/doc/DQ2hpc1pidG9SY1NU
   - 备注：莉莉娅小号
 
 - ZZZ（UniqueNetId:00020d6901a04f5b8d1cb8f5ef1892ae）
   - 服务器：9911
   - 原因：利用游戏漏洞刷资源
   - 处理：永久封禁
-  - 证据文档：
+  - 证据文档：https://docs.qq.com/doc/DQ2hpc1pidG9SY1NU
   - 备注：柳宪华小号
 
 - 123（UniqueNetId:0002c78c32d74c209d3ed4fd78fa74b9）
   - 服务器：9911
   - 原因：利用游戏漏洞刷资源
   - 处理：永久封禁
-  - 证据文档：
+  - 证据文档：https://docs.qq.com/doc/DQ2hpc1pidG9SY1NU
   - 备注：莉莉娅小号
 
 - 18505051083（UniqueNetId:00022144d96546df9635fdacdf6c093a）
   - 服务器：9911
   - 原因：利用游戏漏洞刷资源
   - 处理：永久封禁
-  - 证据文档：
+  - 证据文档：https://docs.qq.com/doc/DQ2hpc1pidG9SY1NU
   - 备注：柳宪华小号
