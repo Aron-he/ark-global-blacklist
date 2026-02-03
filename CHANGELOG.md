@@ -80,7 +80,7 @@
   - 证据文档：https://docs.qq.com/doc/DQ2F1QkdoY0JRRmx3
   - 备注：
 
- - annie（UniqueNetId:00022c3f9e514ea5b329ef9d2f3ba3fa）
+- annie（UniqueNetId:00022c3f9e514ea5b329ef9d2f3ba3fa）
   - 服务器：江湖
   - 原因：趁他人下线，拖人淹死，捡包偷龙，恶意逃避违规事实。
   - 处理：永久封禁
