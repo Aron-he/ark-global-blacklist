@@ -72,3 +72,17 @@
   - 处理：永久封禁
   - 证据文档：https://docs.qq.com/doc/DQ0VFZ0tmWU11bVZ6
   - 备注：红魔 QQ：963578416
+
+- yone（UniqueNetId:00029f0fde5243e7a2d321720dbbd0cc）
+  - 服务器：江湖
+  - 原因：趁他人下线，拖人淹死，捡包偷龙，恶意逃避违规事实。
+  - 处理：永久封禁
+  - 证据文档：https://docs.qq.com/doc/DQ2F1QkdoY0JRRmx3
+  - 备注：
+
+ - annie（UniqueNetId:00022c3f9e514ea5b329ef9d2f3ba3fa）
+  - 服务器：江湖
+  - 原因：趁他人下线，拖人淹死，捡包偷龙，恶意逃避违规事实。
+  - 处理：永久封禁
+  - 证据文档：https://docs.qq.com/doc/DQ2F1QkdoY0JRRmx3
+  - 备注：
