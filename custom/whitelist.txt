@@ -1,0 +1,2 @@
+# Add one whitelisted ID per line.
+# Full blacklist rows such as "<id>,0" are also accepted.

@@ -11,6 +11,9 @@
 
 - 官方列表合并版本（推荐）  
   https://ghproxy.net/https://raw.githubusercontent.com/Aron-he/ark-global-blacklist/main/build/blacklist.txt
+
+- 剔除白名单后的官方列表合并版本  
+  https://ghproxy.net/https://raw.githubusercontent.com/Aron-he/ark-global-blacklist/main/build/blacklist.without-whitelist.txt
   
 ## 📜 规则说明
 
@@ -24,3 +27,8 @@
 - 仅仓库维护者有写权限
 - 所有更新都会记录时间与原因
 
+## 白名单输出
+
+- 将需要放行的 ID 写入 `custom/whitelist.txt`，每行一个 ID。
+- `scripts/merge.sh` 会继续生成完整合并名单：`build/blacklist.txt`。
+- 同时会生成剔除白名单后的合并名单：`build/blacklist.without-whitelist.txt`。
